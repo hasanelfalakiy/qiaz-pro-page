@@ -1,0 +1,20 @@
+{
+  "latestVersion": "0.1.1",
+  "latestVerisonCode": 2,
+  "url": "https://github.com/hasanelfalakiy/qiaz-pro-page/releases",
+  "releaseNotes": [
+    " ",
+    "Penambahan:",
+    "- Custom round/pembulatan angka desimal di menu Ephemeris Detail",
+    "- Generate dan bagikan sebagai .pdf menu Ephemeris",
+    "- Tambah informasi format angka dan notasi ilmiah di menu Tips",
+    " ",
+    "Perbaikan:",
+    "- Tampilan DeltaT pada menu Ephemeris Algoritma Jean Meeus",
+    " ",
+    "Perubahan:",
+    "- ",
+    "- ",
+    " "
+  ]
+}
